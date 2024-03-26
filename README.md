@@ -1,6 +1,6 @@
 # Intro to Python
 
-Dieses Projekt enthält eine Reihe von Jupyter-Notebooks für den Einstieg in Python (`*.ipynb`)
+Dieses Projekt enthält eine Konfiguration für ein Starter-Projekt für den Einstieg in die Python-Entwicklung.
 
 ## Verwendete Werkzeuge
 
